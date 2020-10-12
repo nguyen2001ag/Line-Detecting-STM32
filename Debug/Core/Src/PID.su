@@ -1,0 +1,4 @@
+PID.c:3:6:PID_SET_PARAMs	24	static
+PID.c:9:6:PID_PROCESS	32	static
+PID.c:43:7:PID_ReadValue_left	16	static
+PID.c:47:7:PID_ReadValue_right	16	static
